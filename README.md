@@ -1,12 +1,12 @@
 # ChangeTwitterHandle
 This script (wrote in Python 3.x.x.) allows you to change your Twitter source handle 
 
-View my Twitter where I give proof of my new script working
+# Usage
+py -3 twitter.py
 
 # Installing Dependencies:
 Install Python 3:
 https://www.python.org/downloads/release/python-359/
-
 
 Python Module:
 pip3 install tweepy
@@ -15,7 +15,7 @@ pip3 install tweepy
 
 If you don't add the keys, your tweet won't be formatted correctly
 
-# Tutorial on how to make the custom handle
+# Tutorial on how to configure the custom handle through Twitter Developers
 
 1. Make a Twitter account
 
