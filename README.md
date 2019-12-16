@@ -2,7 +2,8 @@
 This script (wrote in Python 3.x.x.) allows you to change your Twitter source handle 
 
 # Usage
-py -3 twitter.py
+py -3 twitter.py (Windows)
+python3 or python twitter.py (Shell
 
 # Installing Dependencies:
 Install Python 3:
