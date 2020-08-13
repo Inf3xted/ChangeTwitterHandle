@@ -1,3 +1,6 @@
+
+[![Run on Repl.it](https://repl.it/badge/github/Inf3xted/ChangeTwitterHandle)](https://repl.it/github/Inf3xted/ChangeTwitterHandle)
+
 # ChangeTwitterHandle
 This script (wrote in Python 3.x.x.) allows you to change your Twitter source handle 
 
